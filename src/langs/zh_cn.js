@@ -12,6 +12,9 @@
 jQuery.trumbowyg.langs.zh_cn = {
     viewHTML: '源代码',
 
+    undo: '撤销',
+    redo: '重做',
+    
     formatting: '格式',
     p: '段落',
     blockquote: '引用',
@@ -53,5 +56,7 @@ jQuery.trumbowyg.langs.zh_cn = {
     required: '必需的',
     description: '描述',
     title: '标题',
-    text: '文字'
+    text: '文字',
+    
+    removeformat: '清除格式'
 };
